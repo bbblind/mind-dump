@@ -1,0 +1,26 @@
+# Quartz build output
+.quartz-cache/
+public/
+node_modules/
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/workspace-mobile.json
+.obsidian/community-plugins.json
+.trash/
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+
+# Private notes
+private/
+drafts/
+
+# Temporary files
+*.tmp
+~$*
+
