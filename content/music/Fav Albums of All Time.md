@@ -1,0 +1,85 @@
+|        |                                                                                   |                                           |      |                                   |           |      |
+| ------ | --------------------------------------------------------------------------------- | ----------------------------------------- | ---- | --------------------------------- | --------- | ---- |
+| Number | Name of Album                                                                     | Artist                                    | Year | Label                             | Country   | Vote |
+| 1      | The Dark Side of the Moon                                                         | Pink Floyd                                | 1973 | Harvest                           | UK        |      |
+| 2      | Lift Your Skinny Fists Like Antennas to Heaven                                    | Godspeed You! Black Emperor               | 2000 | Constellation                     | Canada    |      |
+| 3      | Tutti morimmo a stento                                                            | Fabrizio De André                         | 1968 | Bluebell                          | Italy     |      |
+| 4      | 17                                                                                | XXXTentacion                              | 2017 | Bad Vibes Forever / Empire        | US        |      |
+| 5      | Discovery                                                                         | Daft Punk                                 | 2001 | Virgin                            | France    |      |
+| 6      | The Queen Is Dead                                                                 | The Smiths                                | 1986 | Rough Trade                       | UK        |      |
+| 7      | Closing Time                                                                      | Tom Waits                                 | 1973 | Asylum                            | US        |      |
+| 8      | All Eyez on Me                                                                    | 2Pac                                      | 1996 | Death Row / Interscope            | US        |      |
+| 9      | The Wall                                                                          | Pink Floyd                                | 1979 | Harvest                           | UK        |      |
+| 10     | Lucio Dalla                                                                       | Lucio Dalla                               | 1979 | RCA Italiana                      | Italy     |      |
+| 11     | Lucio Battisti                                                                    | Lucio Battisti                            | 1969 | Dischi Ricordi                    | Italy     |      |
+| 12     | Deathconsciousness                                                                | Have a Nice Life                          | 2008 | Enemies List Home Recordings      | US        |      |
+| 13     | The Smiths                                                                        | The Smiths                                | 1984 | Rough Trade                       | UK        |      |
+| 14     | Meat Is Murder                                                                    | The Smiths                                | 1985 | Rough Trade                       | UK        |      |
+| 15     | La Fine non è la Fine                                                             | La Quiete                                 | 2004 | Heroine / React With Protest      | Italy     |      |
+| 16     | Dancehall                                                                         | The Blaze                                 | 2018 | Animal 63                         | France    |      |
+| 17     | The Freewheelin’ Bob Dylan                                                        | Bob Dylan                                 | 1963 | Columbia                          | US        |      |
+| 18     | If You’re Feeling Sinister                                                        | Belle and Sebastian                       | 1996 | Jeepster                          | UK        |      |
+| 19     | Substance                                                                         | Joy Division                              | 1988 | Factory                           | UK        |      |
+| 20     | The Earth Is Not a Cold Dead Place                                                | Explosions in the Sky                     | 2003 | Temporary Residence               | US        |      |
+| 21     | Disintegration                                                                    | The Cure                                  | 1989 | Fiction                           | UK        |      |
+| 22     | Tea for the Tillerman                                                             | Cat Stevens                               | 1970 | Island                            | UK        |      |
+| 23     | The Downward Spiral                                                               | Nine Inch Nails                           | 1994 | Nothing / Interscope              | US        |      |
+| 24     | Souvenirs d’un autre monde                                                        | Alcest                                    | 2007 | Prophecy Productions              | France    |      |
+| 25     | Remain in Light                                                                   | Talking Heads                             | 1980 | Sire                              | US        |      |
+| 26     | Nevermind                                                                         | Nirvana                                   | 1991 | DGC                               | US        |      |
+| 27     | Kill ’Em All                                                                      | Metallica                                 | 1983 | Megaforce                         | US        |      |
+| 28     | Ride the Lightning                                                                | Metallica                                 | 1984 | Megaforce                         | US        |      |
+| 29     | …And Justice for All                                                              | Metallica                                 | 1988 | Elektra                           | US        |      |
+| 30     | Vulgar Display of Power                                                           | Pantera                                   | 1992 | Atco                              | US        |      |
+| 31     | Non al denaro non all’amore né al cielo                                           | Fabrizio De André                         | 1971 | RCA Italiana                      | Italy     |      |
+| 32     | F♯ A♯ ∞ (Infinity)                                                                | Godspeed You! Black Emperor               | 1997 | Constellation                     | Canada    |      |
+| 33     | Theorius Campus                                                                   | Antonello Venditti & Francesco De Gregori | 1972 | It                                | Italy     |      |
+| 34     | La La Land: Original Motion Picture Soundtrack                                    | Various Artists                           | 2016 | Interscope                        | US        |      |
+| 35     | Painted from Memory                                                               | Elvis Costello & Burt Bacharach           | 1998 | Mercury                           | US/UK     |      |
+| 36     | Paranoid                                                                          | Black Sabbath                             | 1970 | Vertigo                           | UK        |      |
+| 37     | Mr. Simpatia                                                                      | Fabri Fibra                               | 2004 | Universal                         | Italy     |      |
+| 38     | Don’t Fall in Love with Everyone You See                                          | Okkervil River                            | 2002 | Jagjaguwar                        | US        |      |
+| 39     | Gino Paoli                                                                        | Gino Paoli                                | 1961 | Dischi Ricordi                    | Italy     |      |
+| 40     | Mellon Collie and the Infinite Sadness                                            | The Smashing Pumpkins                     | 1995 | Virgin                            | US        |      |
+| 41     | Rage Against the Machine                                                          | Rage Against the Machine                  | 1992 | Epic                              | US        |      |
+| 42     | At Folsom Prison                                                                  | Johnny Cash                               | 1968 | Columbia                          | US        |      |
+| 43     | He Has Left Us Alone but Shafts of Light Sometimes Grace the Corner of Our Rooms… | A Silver Mt. Zion                         | 2000 | Constellation                     | Canada    |      |
+| 44     | Born into Trouble as the Sparks Fly Upward                                        | A Silver Mt. Zion                         | 2001 | Constellation                     | Canada    |      |
+| 45     | Horses in the Sky                                                                 | A Silver Mt. Zion                         | 2005 | Constellation                     | Canada    |      |
+| 46     | Wish You Were Here                                                                | Pink Floyd                                | 1975 | Harvest                           | UK        |      |
+| 47     | Le fabuleux destin d’Amélie Poulain (Original Soundtrack)                         | Yann Tiersen                              | 2001 | Virgin                            | France    |      |
+| 48     | Ágætis byrjun                                                                     | Sigur Rós                                 | 1999 | Smekkleysa                        | Iceland   |      |
+| 49     | The Mission: Music from the Motion Picture                                        | Ennio Morricone                           | 1986 | Virgin                            | Italy/UK  |      |
+| 50     | Power, Corruption & Lies                                                          | New Order                                 | 1983 | Factory                           | UK        |      |
+| 51     | Oi Oi Oi                                                                          | Boys Noize                                | 2007 | Boysnoize Records                 | Germany   |      |
+| 52     | Down Colorful Hill                                                                | Red House Painters                        | 1992 | 4AD                               | UK        |      |
+| 53     | Lilly                                                                             | Antonello Venditti                        | 1975 | It                                | Italy     |      |
+| 54     | Mezzanine                                                                         | Massive Attack                            | 1998 | Virgin                            | UK        |      |
+| 55     | Toxicity                                                                          | System of a Down                          | 2001 | American / Columbia               | US        |      |
+| 56     | Grace                                                                             | Jeff Buckley                              | 1994 | Columbia                          | US        |      |
+| 57     | † (Cross)                                                                         | Justice                                   | 2007 | Ed Banger / Because               | France    |      |
+| 58     | Space Is Only Noise                                                               | Nicolas Jaar                              | 2011 | Circus Company                    | US/France |      |
+| 59     | Tutto il resto è noia                                                             | Franco Califano                           | 1976 | CGD                               | Italy     |      |
+| 60     | The Sound                                                                         | Jeopardy                                  | 1980 | Korova                            | UK        |      |
+| 61     | Blonde on Blonde                                                                  | Bob Dylan                                 | 1966 | Columbia                          | US        |      |
+| 62     | Slippery When Wet                                                                 | Bon Jovi                                  | 1986 | Mercury                           | US        |      |
+| 63     | Le Onde                                                                           | Ludovico Einaudi                          | 1996 | RCA                               | Italy     |      |
+| 64     | The Eminem Show                                                                   | Eminem                                    | 2002 | Shady / Aftermath / Interscope    | US        |      |
+| 65     | Into the Wild (Music for the Motion Picture)                                      | Eddie Vedder                              | 2007 | J Records                         | US        |      |
+| 66     | The Man-Machine                                                                   | Kraftwerk                                 | 1978 | Kling Klang / EMI                 | Germany   |      |
+| 67     | Halber Mensch                                                                     | Einstürzende Neubauten                    | 1985 | Some Bizarre                      | Germany   |      |
+| 68     | Strange Days                                                                      | The Doors                                 | 1967 | Elektra                           | US        |      |
+| 69     | Liberato                                                                          | Liberato                                  | 2019 | Liberato                          | Italy     |      |
+| 70     | Sfortuna                                                                          | Fine Before You Came                      | 2003 | La Tempesta                       | Italy     |      |
+| 71     | Goodbye Yellow Brick Road                                                         | Elton John                                | 1973 | MCA                               | UK/US     |      |
+| 72     | DAMN.                                                                             | Kendrick Lamar                            | 2017 | Top Dawg / Aftermath / Interscope | US        |      |
+| 73     | My Way                                                                            | Frank Sinatra                             | 1969 | Reprise                           | US        |      |
+| 74     | In the Panchine                                                                   | Frah Quintale                             | 2016 | Undamento                         | Italy     |      |
+| 75     | Let It Bleed                                                                      | The Rolling Stones                        | 1969 | Decca / London                    | UK/US     |      |
+| 76     | Blink-182                                                                         | Blink-182                                 | 2003 | Geffen                            | US        |      |
+| 77     | In the Aeroplane Over the Sea                                                     | Neutral Milk Hotel                        | 1998 | Merge                             | US        |      |
+| 78     | Tenco                                                                             | Luigi Tenco                               | 1962 | Ricordi                           | Italy     |      |
+| 79     | Ænima                                                                             | Tool                                      | 1996 | Zoo Entertainment                 | US        |      |
+| 80     | Tac…!                                                                             | Franco Califano                           | 1977 | RCA Italiana                      | Italy     |      |
+| 81     | Elephant                                                                          | The White Stripes                         | 2003 | V2                                | US/UK     |      |
+| 82     | Bollicine                                                                         | Vasco Rossi                               | 1983 | Carosello                         | Italy     |      |
