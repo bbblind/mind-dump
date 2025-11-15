@@ -4,7 +4,7 @@
   "attachmentFolderPath": "./attachments",
   "useMarkdownLinks": false,
   "showUnsupportedFiles": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "showFrontmatter": true,
   "foldHeading": true,
   "foldIndent": true,
