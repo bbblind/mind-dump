@@ -1,0 +1,1 @@
+Gli italiani sceglieranno sempre il vecchio perché il vecchio è il loro motivo di vanto. Scegliendo fra passato e futuro sceglieranno sempre il passato perché il passato è stato il loro massimo momento di espressione il loro massimo momento di riuscita e di abbellimento dei canoni della società

@@ -1,0 +1,1 @@
+You will still be here tomorrow, but your dreams may not
