@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "andrealabate.com/mind",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "README.md", "SETUP_GUIDE.md", "START_HERE.md", "QUICK_START.md", "GIT_SETUP.md", "NEXT_STEPS.md", "✅_SETUP_COMPLETE.md"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
