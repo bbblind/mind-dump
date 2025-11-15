@@ -63,7 +63,7 @@ git push -u origin main
 
 **When prompted for credentials:**
 - Username: `YOUR_GITHUB_USERNAME`
-- Password: `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`
+- Password: Your Personal Access Token (from https://github.com/settings/tokens)
 
 ---
 

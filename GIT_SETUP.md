@@ -51,7 +51,7 @@ When prompted:
 - **Username**: Your GitHub username
 - **Password**: Paste your Personal Access Token (not your actual password!)
 
-The token will be: `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`
+Generate a token at: https://github.com/settings/tokens
 
 After the first push, Git will remember your credentials.
 

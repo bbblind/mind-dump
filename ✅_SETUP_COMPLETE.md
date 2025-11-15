@@ -52,7 +52,7 @@ git push -u origin main
 
 **When prompted for credentials:**
 - Username: Your GitHub username
-- Password: `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`
+- Password: Your GitHub Personal Access Token (generate at https://github.com/settings/tokens)
 
 ### Step 3: Enable GitHub Pages (2 minutes)
 
@@ -219,7 +219,7 @@ Opens at: http://localhost:8080
 
 ### Git push fails?
 - Use your Personal Access Token as password (not GitHub password)
-- Token: `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`
+- Generate a new token at: https://github.com/settings/tokens
 
 ### Site not building?
 - Check the "Actions" tab in your GitHub repo for errors
