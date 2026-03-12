@@ -1,0 +1,65 @@
+# Example override file for local development
+# Copy to docker-compose.override.yml and customize
+
+version: '3.8'
+
+services:
+  app:
+    environment:
+      - NODE_ENV=development
+      - LOG_LEVEL=debug
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: npm run dev
+
+  # Expose database for local access
+  db:
+    ports:
+      - "5433:5432"  # Use different port to avoid conflicts
+
+  # Expose Redis for local access  
+  redis:
+    ports:
+      - "6380:6379"  # Use different port to avoid conflicts
+
+  # Add development tools
+  adminer:
+    profiles:
+      - ""  # Always start in development
+
+  redis-commander:
+    profiles:
+      - ""  # Always start in development
+# Copy to docker-compose.override.yml and customize
+
+version: '3.8'
+
+services:
+  app:
+    environment:
+      - NODE_ENV=development
+      - LOG_LEVEL=debug
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: npm run dev
+
+  # Expose database for local access
+  db:
+    ports:
+      - "5433:5432"  # Use different port to avoid conflicts
+
+  # Expose Redis for local access  
+  redis:
+    ports:
+      - "6380:6379"  # Use different port to avoid conflicts
+
+  # Add development tools
+  adminer:
+    profiles:
+      - ""  # Always start in development
+
+  redis-commander:
+    profiles:
+      - ""  # Always start in development

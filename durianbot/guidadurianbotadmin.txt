@@ -1,0 +1,200 @@
+═══════════════════════════════════════════════════
+🍕 GUIDA BOT DURIANONPIZZA - PER AMMINISTRATORI 🍕
+═══════════════════════════════════════════════════
+
+Ciao Admin! Questa è la tua guida super facile per usare il bot.
+
+═══════════════════════════════════════════════════
+📊 1. VEDERE LE STATISTICHE
+═══════════════════════════════════════════════════
+
+Cosa fai:
+→ Scrivi al bot: /stats
+
+Cosa vedi:
+✅ Quanti utenti totali hai
+✅ Quanti abbonamenti attivi ci sono
+✅ Quanto guadagni al mese (ricorrente)
+✅ Quanti nuovi utenti negli ultimi 30 giorni
+
+Esempio:
+Tu scrivi: /stats
+Bot risponde: "📊 Bot Statistics
+👥 Total Users: 42
+✅ Active Subscriptions: 15
+💰 Monthly Recurring Revenue: $239.85
+📈 New Users (30d): 8"
+
+
+═══════════════════════════════════════════════════
+📸 2. CARICARE FOTO O VIDEO NORMALI
+═══════════════════════════════════════════════════
+
+Questi sono contenuti che TUTTI i membri paganti vedono nel gruppo.
+
+PASSO 1: Invia una foto o video al bot in privato
+PASSO 2: Il bot ti chiede "Do you want to add a caption?"
+PASSO 3: Due opzioni:
+   A) Scrivi una descrizione (es: "Ecco il video di oggi!")
+   B) Scrivi /skip per non mettere descrizione
+
+PASSO 4: Il bot pubblica automaticamente nel gruppo!
+
+✅ Il contenuto è PROTETTO: nessuno può scaricarlo o inoltrarlo
+✅ Ha il watermark @DurianOnPizza automatico
+
+
+═══════════════════════════════════════════════════
+🔒 3. CARICARE CONTENUTI A PAGAMENTO (LOCKED)
+═══════════════════════════════════════════════════
+
+Questi sono contenuti EXTRA che gli utenti devono pagare a parte!
+
+PASSO 1: Invia una foto o video al bot in privato
+
+PASSO 2: Quando vedi la foto/video che hai mandato, 
+         RISPONDI A QUEL MESSAGGIO scrivendo:
+         /post_locked PREZZO
+
+Esempi:
+→ /post_locked 5        (costa 5 dollari)
+→ /post_locked 9.99     (costa 9.99 dollari)
+→ /post_locked 15       (costa 15 dollari)
+
+PASSO 3: Aspetta 10-20 secondi (il bot sta lavorando!)
+
+PASSO 4: Nel gruppo appare:
+   ✅ La foto/video SFOCATA
+   ✅ Un bottone "🔓 Unlock for $X.XX"
+   ✅ Il watermark @DurianOnPizza
+
+Come funziona per gli utenti:
+→ Nel gruppo vedono solo la versione sfocata
+→ Cliccano "Unlock" 
+→ Il bot gli scrive in privato
+→ Cliccano il link per pagare con carta
+→ Dopo il pagamento ricevono il contenuto ORIGINALE in privato
+→ NON possono scaricarlo o inoltrarlo
+
+⚠️ IMPORTANTE:
+- I video vengono ridotti a 20 secondi e 480p per velocità
+- Il blur è medio (si vede qualcosa ma non tutto)
+- Puoi mettere qualsiasi prezzo da $0.01 a $999
+
+
+═══════════════════════════════════════════════════
+📢 4. MANDARE MESSAGGI A TUTTI
+═══════════════════════════════════════════════════
+
+Vuoi mandare un annuncio a tutti gli iscritti?
+
+Scrivi: /broadcast MESSAGGIO
+
+Esempi:
+→ /broadcast Ciao a tutti! Domani nuovo contenuto! 🔥
+→ /broadcast Oggi sconto del 20% sugli abbonamenti!
+→ /broadcast Ricordatevi di rinnovare l'abbonamento!
+
+⚠️ Il messaggio viene inviato a TUTTI gli utenti che hanno 
+    mai parlato col bot (anche quelli senza abbonamento)
+
+
+═══════════════════════════════════════════════════
+📋 5. VEDERE I PIANI DI ABBONAMENTO
+═══════════════════════════════════════════════════
+
+Scrivi: /plans
+
+Vedrai i due piani:
+→ 1 Mese = $15.99 al mese
+→ 3 Mesi = $35.99 ogni 3 mesi (risparmio!)
+
+Entrambi si rinnovano AUTOMATICAMENTE.
+Se uno cancella, viene rimosso dal gruppo dopo il periodo pagato.
+
+
+═══════════════════════════════════════════════════
+❌ 6. COSA NON PUOI FARE
+═══════════════════════════════════════════════════
+
+✗ Non puoi usare /post_locked su messaggi di testo
+✗ Non puoi modificare i prezzi degli abbonamenti (sono fissi)
+✗ Non puoi caricare video troppo lunghi (max 30 secondi)
+✗ Non puoi togliere il watermark (è automatico)
+
+
+═══════════════════════════════════════════════════
+📝 7. LISTA VELOCE COMANDI
+═══════════════════════════════════════════════════
+
+/stats              → Statistiche del bot
+/plans              → Vedi i piani di abbonamento
+/broadcast TESTO    → Manda messaggio a tutti
+/post_locked PREZZO → Crea contenuto a pagamento
+/skip               → Salta la descrizione quando carichi contenuti
+/help               → Lista di tutti i comandi
+/account            → Vedi il tuo account personale
+
+
+═══════════════════════════════════════════════════
+💡 8. ESEMPIO PRATICO COMPLETO
+═══════════════════════════════════════════════════
+
+Scenario: Vuoi vendere una foto hot a $7.50
+
+1. Apri il bot @DurianOnPizzaBot in privato
+2. Invia la foto
+3. Il bot dice "Do you want to add a caption?"
+4. Clicca sul messaggio della foto (quello che HAI MANDATO TU)
+5. Premi "Reply" (rispondi)
+6. Scrivi: /post_locked 7.50
+7. Aspetta 5-10 secondi
+8. Vai nel gruppo @DurianOnPizza
+9. Vedrai la foto sfocata con il bottone "Unlock"
+10. ✅ FATTO!
+
+
+═══════════════════════════════════════════════════
+💰 9. COME RITIRARE I SOLDI
+═══════════════════════════════════════════════════
+
+I soldi NON stanno nel bot!
+Stanno su Stripe (il sito dei pagamenti).
+
+Come fare:
+1. Vai su https://dashboard.stripe.com
+2. Accedi con le tue credenziali
+3. Vai su "Pagamenti"
+4. Vedi tutti i soldi ricevuti
+5. Stripe li trasferisce automaticamente sul tuo conto bancario
+
+⚠️ Non serve fare NIENTE nel bot per i soldi!
+
+
+═══════════════════════════════════════════════════
+🆘 10. PROBLEMI COMUNI
+═══════════════════════════════════════════════════
+
+PROBLEMA: "Il bot non risponde"
+→ Riprova dopo 1 minuto
+→ Controlla di aver scritto il comando giusto
+
+PROBLEMA: "Il video locked non appare nel gruppo"
+→ È normale che ci vogliano 10-20 secondi
+→ Se dopo 30 secondi non appare, riprova
+
+PROBLEMA: "L'utente dice che il link è scaduto"
+→ Deve cliccare entro 1 ora
+→ Se scaduto, deve ricliccare "Unlock" nel gruppo
+
+PROBLEMA: "L'utente non riceve il contenuto dopo il pagamento"
+→ Controlla su Stripe se il pagamento è andato a buon fine
+→ Il bot manda il contenuto automaticamente entro 10 secondi
+
+
+═══════════════════════════════════════════════════
+✅ HAI FINITO! SEI PRONTO! 🎉
+═══════════════════════════════════════════════════
+
+Se hai dubbi, prova e riprova. È facile!
+Ricorda: Tu sei l'admin, puoi fare tutto! 💪

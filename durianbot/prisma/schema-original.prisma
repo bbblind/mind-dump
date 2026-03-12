@@ -1,0 +1,127 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id         String   @id @default(cuid())
+  telegramId BigInt   @unique @map("telegram_id")
+  username   String?
+  firstName  String?  @map("first_name")
+  lastName   String?  @map("last_name")
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  subscriptions Subscription[]
+  inviteTokens  InviteToken[]
+  mediaPosts    MediaPost[]
+
+  @@map("users")
+}
+
+enum PlanInterval {
+  MONTH @map("month")
+  YEAR  @map("year")
+
+  @@map("plan_interval")
+}
+
+model Plan {
+  id           String       @id @default(cuid())
+  name         String
+  stripePriceId String      @unique @map("stripe_price_id")
+  priceCents   Int          @map("price_cents")
+  interval     PlanInterval
+  active       Boolean      @default(true)
+  createdAt    DateTime     @default(now()) @map("created_at")
+  updatedAt    DateTime     @updatedAt @map("updated_at")
+
+  // Relations
+  subscriptions Subscription[]
+
+  @@map("plans")
+}
+
+enum SubscriptionStatus {
+  ACTIVE     @map("active")
+  CANCELED   @map("canceled")
+  PAST_DUE   @map("past_due")
+  INCOMPLETE @map("incomplete")
+  UNPAID     @map("unpaid")
+
+  @@map("subscription_status")
+}
+
+model Subscription {
+  id                String             @id @default(cuid())
+  userId            String             @map("user_id")
+  planId            String             @map("plan_id")
+  stripeCustomerId  String             @map("stripe_customer_id")
+  stripeSubId       String             @unique @map("stripe_subscription_id")
+  status            SubscriptionStatus
+  currentPeriodEnd  DateTime           @map("current_period_end")
+  cancelAtPeriodEnd Boolean            @default(false) @map("cancel_at_period_end")
+  createdAt         DateTime           @default(now()) @map("created_at")
+  updatedAt         DateTime           @updatedAt @map("updated_at")
+
+  // Relations
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  plan Plan @relation(fields: [planId], references: [id])
+
+  @@map("subscriptions")
+}
+
+model InviteToken {
+  id              String   @id @default(cuid())
+  userId          String   @map("user_id")
+  chatInviteLink  String   @map("chat_invite_link")
+  expiresAt       DateTime @map("expires_at")
+  redeemed        Boolean  @default(false)
+  redeemedAt      DateTime? @map("redeemed_at")
+  createdAt       DateTime @default(now()) @map("created_at")
+
+  // Relations
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("invite_tokens")
+}
+
+enum MediaType {
+  PHOTO @map("photo")
+  VIDEO @map("video")
+
+  @@map("media_type")
+}
+
+model MediaPost {
+  id             String    @id @default(cuid())
+  type           MediaType
+  fileId         String    @map("file_id")
+  caption        String?
+  postedAt       DateTime  @default(now()) @map("posted_at")
+  postedByUserId String?   @map("posted_by_user_id")
+
+  // Relations
+  postedBy User? @relation(fields: [postedByUserId], references: [id])
+
+  @@map("media_posts")
+}
+
+model WebhookEvent {
+  id          String   @id @default(cuid())
+  stripeEventId String @unique @map("stripe_event_id")
+  eventType   String   @map("event_type")
+  processed   Boolean  @default(false)
+  createdAt   DateTime @default(now()) @map("created_at")
+  processedAt DateTime? @map("processed_at")
+
+  @@map("webhook_events")
+}

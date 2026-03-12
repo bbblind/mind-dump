@@ -1,0 +1,220 @@
+═══════════════════════════════════════════════════
+🍕 GUIDA BOT DURIANONPIZZA - PER UTENTI 🍕
+═══════════════════════════════════════════════════
+
+Ciao! Questa guida ti spiega come usare il bot passo passo.
+
+═══════════════════════════════════════════════════
+🚀 1. COME INIZIARE
+═══════════════════════════════════════════════════
+
+PASSO 1: Clicca su @DurianOnPizzaBot
+PASSO 2: Premi "START" o scrivi /start
+PASSO 3: Vedrai un video di benvenuto e i piani disponibili!
+
+
+═══════════════════════════════════════════════════
+💳 2. SCEGLIERE UN ABBONAMENTO
+═══════════════════════════════════════════════════
+
+Ci sono 2 piani:
+
+📅 PIANO 1 MESE
+→ Costa $15.99 al mese
+→ Si rinnova automaticamente ogni mese
+→ Puoi cancellare quando vuoi
+
+📅 PIANO 3 MESI  
+→ Costa $35.99 ogni 3 mesi
+→ Si rinnova automaticamente ogni 3 mesi
+→ RISPARMI soldi rispetto al piano mensile!
+→ Puoi cancellare quando vuoi
+
+Come scegliere:
+1. Clicca su "💎 1 Month - $15.99" o "💎 3 Months - $35.99"
+2. Si apre una pagina di pagamento
+3. Inserisci i dati della tua carta
+4. Puoi usare codici sconto se ne hai!
+5. Premi "Paga"
+6. ✅ FATTO! Il bot ti manderà il link per entrare nel gruppo
+
+
+═══════════════════════════════════════════════════
+🔐 3. ENTRARE NEL GRUPPO PRIVATO
+═══════════════════════════════════════════════════
+
+Dopo il pagamento:
+1. Il bot ti manda un messaggio con un bottone "👥 Join Group"
+2. Clicca sul bottone
+3. Ti porta nel gruppo @DurianOnPizza
+4. Premi "Unisciti al gruppo"
+5. ✅ Sei dentro! Ora puoi vedere tutto il contenuto!
+
+⚠️ IMPORTANTE:
+- Il link funziona SOLO UNA VOLTA
+- Hai 1 ora di tempo per cliccare
+- Se non clicchi, scrivi di nuovo /start al bot
+
+
+═══════════════════════════════════════════════════
+🔓 4. SBLOCCARE CONTENUTI EXTRA (LOCKED)
+═══════════════════════════════════════════════════
+
+Nel gruppo vedi alcuni contenuti SFOCATI con un bottone "🔓 Unlock".
+
+Questi sono contenuti EXTRA che puoi comprare a parte!
+
+Come sbloccare:
+1. Clicca su "🔓 Unlock for $X.XX" sotto al contenuto sfocato
+2. Il bot @DurianOnPizzaBot ti scrive in privato
+3. Clicca sul link che ti manda
+4. Inserisci i dati della carta (puoi usare codici sconto!)
+5. Paga
+6. Dopo 10 secondi il bot ti manda il contenuto ORIGINALE in privato!
+
+⚠️ IMPORTANTE:
+- Il contenuto originale arriva SOLO IN PRIVATO dal bot
+- NON puoi scaricarlo o inoltrarlo (è protetto)
+- Puoi vederlo SOLO nel bot
+- Se chiudi la chat, puoi sempre ri-aprirla per rivederlo
+
+
+═══════════════════════════════════════════════════
+⚙️ 5. GESTIRE IL TUO ACCOUNT
+═══════════════════════════════════════════════════
+
+Scrivi al bot: /account
+
+Vedrai:
+✅ Il tuo abbonamento attivo
+✅ Quando scade (se hai cancellato)
+✅ Quanto hai speso in totale
+✅ Quanti contenuti extra hai sbloccato
+
+Cosa puoi fare:
+→ "⚙️ Manage Subscription" = Vai su Stripe per:
+   • Cambiare carta di credito
+   • Vedere la cronologia pagamenti
+   • Scaricare fatture
+
+→ "❌ Cancel Auto-Renewal" = Cancella il rinnovo automatico
+   (resti nel gruppo fino alla scadenza del periodo pagato)
+
+
+═══════════════════════════════════════════════════
+❌ 6. CANCELLARE L'ABBONAMENTO
+═══════════════════════════════════════════════════
+
+Hai 2 modi:
+
+MODO 1 (dal bot):
+1. Scrivi /account al bot
+2. Clicca "❌ Cancel Auto-Renewal"
+3. Conferma
+4. ✅ Il rinnovo è cancellato!
+
+MODO 2 (da Stripe):
+1. Scrivi /account al bot
+2. Clicca "⚙️ Manage Subscription"
+3. Vai su Stripe
+4. Clicca "Cancella abbonamento"
+
+⚠️ COSA SUCCEDE:
+- NON vieni rimosso subito dal gruppo
+- Resti fino alla fine del periodo che hai pagato
+- Esempio: hai pagato il 1 gennaio per 1 mese
+  → Se cancelli il 15 gennaio, resti fino al 31 gennaio
+  → Il 1 febbraio vieni rimosso dal gruppo automaticamente
+- NO RIMBORSI per i giorni non usati
+
+
+═══════════════════════════════════════════════════
+📝 7. COMANDI DISPONIBILI
+═══════════════════════════════════════════════════
+
+/start    → Inizia o rivedi i piani
+/account  → Vedi il tuo account
+/plans    → Vedi i piani disponibili
+/help     → Lista comandi
+
+
+═══════════════════════════════════════════════════
+💡 8. DOMANDE FREQUENTI (FAQ)
+═══════════════════════════════════════════════════
+
+D: Posso scaricare i contenuti?
+R: NO, sono protetti. Puoi solo vederli nel bot o nel gruppo.
+
+D: Posso condividere il contenuto con amici?
+R: NO, non puoi inoltrare i messaggi del bot o del gruppo.
+
+D: Posso entrare nel gruppo senza pagare?
+R: NO, serve un abbonamento attivo.
+
+D: Cosa succede se la mia carta viene rifiutata?
+R: Il bot ti avvisa e hai 3 giorni per aggiornare la carta.
+   Dopo 3 giorni vieni rimosso dal gruppo.
+
+D: Posso usare più account?
+R: Sì, ma devi pagare per ognuno.
+
+D: Posso cambiare da piano mensile a trimestrale?
+R: Sì! Cancella l'attuale, aspetta la scadenza, 
+   poi riabbonati col nuovo piano.
+
+D: Come posso usare un codice sconto?
+R: Quando paghi, nella pagina Stripe c'è un campo 
+   "Codice promozionale". Inseriscilo lì!
+
+D: Il contenuto locked che ho comprato, lo perdo se cancello?
+R: NO! I contenuti extra che hai sbloccato restano 
+   sempre disponibili nel bot in privato, anche se cancelli!
+
+D: Posso scaricare le fatture?
+R: Sì! Vai su /account → Manage Subscription → 
+   Su Stripe trovi tutte le fatture scaricabili.
+
+
+═══════════════════════════════════════════════════
+🆘 9. PROBLEMI COMUNI
+═══════════════════════════════════════════════════
+
+PROBLEMA: "Ho pagato ma non ho ricevuto il link del gruppo"
+→ Scrivi /start al bot
+→ Se non funziona, aspetta 1 minuto e riprova
+
+PROBLEMA: "Il link del gruppo è scaduto"
+→ Scrivi /start al bot per averne uno nuovo
+→ Clicca entro 1 ora questa volta!
+
+PROBLEMA: "Non riesco a vedere i contenuti nel gruppo"
+→ Controlla di avere l'abbonamento attivo con /account
+→ Se l'abbonamento è scaduto, devi rinnovare
+
+PROBLEMA: "Ho pagato un contenuto locked ma non l'ho ricevuto"
+→ Aspetta 10 secondi
+→ Controlla i messaggi dal bot @DurianOnPizzaBot
+→ Se ancora non c'è, clicca di nuovo "Unlock" (non paghi 2 volte!)
+
+PROBLEMA: "Voglio un rimborso"
+→ Non ci sono rimborsi automatici
+→ Contatta il supporto spiegando il problema
+
+
+═══════════════════════════════════════════════════
+💪 10. CONSIGLI
+═══════════════════════════════════════════════════
+
+✅ Salva la chat con @DurianOnPizzaBot per rivedere i contenuti locked
+✅ Attiva le notifiche per non perdere i nuovi contenuti
+✅ Usa il piano 3 mesi per risparmiare!
+✅ Se hai problemi, scrivi /help per vedere tutti i comandi
+✅ Ricorda: il contenuto è protetto per rispettare il lavoro dei creatori
+
+
+═══════════════════════════════════════════════════
+✅ BUON DIVERTIMENTO! 🎉
+═══════════════════════════════════════════════════
+
+Ora sei pronto per goderti tutti i contenuti esclusivi!
+Se hai ancora dubbi, chiedi nel gruppo o al supporto! 💬
